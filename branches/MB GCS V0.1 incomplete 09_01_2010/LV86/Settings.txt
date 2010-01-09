@@ -1,0 +1,3 @@
+testsetting1	123
+testsetting2	123
+testsetting3	123
