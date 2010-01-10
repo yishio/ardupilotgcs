@@ -1,3 +1,1 @@
-#summary One-sentence summary of this page.
-
 This is where we'll talk about the broad function of the Ground Station, and link to pages on how to use it.
