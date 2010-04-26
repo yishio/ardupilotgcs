@@ -1,3 +1,0 @@
-fpvtilt	70
-comport	COM4
-baudrate	9600
