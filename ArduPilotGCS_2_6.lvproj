@@ -64,9 +64,9 @@
 			<Item Name="GCS-diydrones.png" Type="Document" URL="../GCS-diydrones.png"/>
 			<Item Name="H.png" Type="Document" URL="../H.png"/>
 			<Item Name="L.png" Type="Document" URL="../L.png"/>
+			<Item Name="ArduPilotGCSv2_icon.ico" Type="Document" URL="../ArduPilotGCSv2_icon.ico"/>
 		</Item>
 		<Item Name="ArduPilot GCS.vi" Type="VI" URL="../ArduPilot GCS.vi"/>
-		<Item Name="ArduPilotGCSv2_icon.ico" Type="Document" URL="../../ArduPilotGCSv2_icon.ico"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
@@ -108,6 +108,7 @@
 			<Item Name="user32.dll" Type="Document" URL="user32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="visarc" Type="Document" URL="../../../../National Instruments/LabVIEW 2009/resource/visarc"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ArduPilotGCS" Type="EXE">
@@ -115,6 +116,7 @@
 				<Property Name="App_applicationName" Type="Str">ArduPilot GCS.exe</Property>
 				<Property Name="App_companyName" Type="Str">DIYDrones</Property>
 				<Property Name="App_fileDescription" Type="Str">ArduPilotGCS</Property>
+				<Property Name="App_fileVersion.build" Type="Int">4</Property>
 				<Property Name="App_fileVersion.major" Type="Int">2</Property>
 				<Property Name="App_fileVersion.minor" Type="Int">6</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{4C3A0630-E35B-4923-9113-DE232397545D}</Property>
@@ -132,8 +134,8 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/ArduPilotGCS/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/ArduPilotGCSv2_icon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{56DD8C9E-9F31-4B8A-9161-8B777698EC18}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/GeneralAndMisc/ArduPilotGCSv2_icon.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8AED26AD-02A5-4F18-81F6-8E6BE9BC05BC}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ArduPilot GCS.vi</Property>
@@ -142,6 +144,9 @@
 				<Property Name="Source[10].Container.applyProperties" Type="Bool">true</Property>
 				<Property Name="Source[10].itemID" Type="Ref">/My Computer/Voice</Property>
 				<Property Name="Source[10].type" Type="Str">Container</Property>
+				<Property Name="Source[11].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[11].itemID" Type="Ref">/My Computer/GeneralAndMisc/ArduPilotGCSv2_icon.ico</Property>
+				<Property Name="Source[11].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/GeneralAndMisc/NetworkLink.kml</Property>
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
@@ -166,7 +171,7 @@
 				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[9].itemID" Type="Ref">/My Computer/GeneralAndMisc/L.png</Property>
 				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="SourceCount" Type="Int">11</Property>
+				<Property Name="SourceCount" Type="Int">12</Property>
 			</Item>
 		</Item>
 	</Item>
