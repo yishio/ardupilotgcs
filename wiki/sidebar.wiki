@@ -1,7 +1,7 @@
 #summary Navigation sidebar.
 
-== !ArduPilot Ground Station (GCS)==
+== !ArduPilot GCS ==
+Ground Control Station (GCS)
 LabVIEW version
 
  * [Overview Overview]
-
