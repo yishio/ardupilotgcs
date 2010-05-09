@@ -1,3 +1,7 @@
-!ArduPilot Ground Station
+#summary Navigation sidebar.
 
-[http://code.google.com/p/ardupilotgcs/wiki/Overview Overview]
+== !ArduPilot Ground Station (GCS)==
+LabVIEW version
+
+ * [Overview Overview]
+
