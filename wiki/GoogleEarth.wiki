@@ -9,7 +9,7 @@
 
 Although it is possible to run Google Earth with default settings,  few changes are recommended but not absolute necessary
 
-=== Navigation Controls === Turn off navigation controls by going to _View > Show Navigation_ and select _Never_.  Because GCS uses custom file to display kml data, Google Earth's navigation controls will not work, so leaving them displayed might cause confusion. 
+# *Navigation Controls* - Turn off navigation controls by going to _View > Show Navigation_ and select _Never_.  Because GCS uses custom file to display kml data, Google Earth's navigation controls will not work, so leaving them displayed might cause confusion. 
 
 http://ardupilotgcs.googlecode.com/svn/images/GEnavigation.JPG
 
