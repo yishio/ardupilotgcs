@@ -11,10 +11,13 @@ Although it is possible to run Google Earth with default settings,  few changes 
 
 
 
-  # *Navigation Controls* - Turn off navigation controls by going to _View > Show Navigation_ and select _Never_.  Because GCS uses custom file to display kml data, Google Earth's navigation controls will not work, so leaving them displayed might cause confusion.http://ardupilotgcs.googlecode.com/svn/images/GEnavigation.JPG
+  * *Navigation Controls* - Turn off navigation controls by going to _View > Show Navigation_ and select _Never_.  Because GCS uses custom file to display kml data, Google Earth's navigation controls will not work, so leaving them displayed might cause confusion.http://ardupilotgcs.googlecode.com/svn/images/GEnavigation.JPG
 
 
-  # *Layers* - It's suggested to un-check all ( most) of the layer overlays in order not to have unnecessary communication traffic and slow down UAV display. By doing this Google Earth will not attempt to communicate with the server and update live traffic, or historical places, etc.http://ardupilotgcs.googlecode.com/svn/images/GELayers.jpg
+  * *Layers* - It's suggested to un-check all ( most) of the layer overlays in order not to have unnecessary communication traffic and slow down UAV display. By doing this Google Earth will not attempt to communicate with the server and update live traffic, or historical places, etc.
+http://ardupilotgcs.googlecode.com/svn/images/GELayers.jpg
+
+  * 
 
   # Get ArduPilot Ground Control Station [GCS Instructions]Install it in your aircraft. _[http://code.google.com/p/ardupilot/wiki/AirFrame Instructions]_
   # Load the code. _[http://code.google.com/p/ardupilot/wiki/LoadingPage Instructions]_
