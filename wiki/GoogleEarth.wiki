@@ -1,7 +1,7 @@
 = Installing and Configuring Google Earth =
 
   * Download Google Earth from [http://earth.google.com/intl/en/download-earth.html here]. 
-Currently _Ground Control Station_ only supports Windows operating system, so download  Windows version of GE.
+    Currently _Ground Control Station_ only supports Windows operating system, so download  Windows version of GE.
   * Follow installation prompts, and when finished, start Google Earth application
 
 
