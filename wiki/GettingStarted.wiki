@@ -1,5 +1,3 @@
-#summary Components needed for GCS
-
 
 = Getting Started =
 
