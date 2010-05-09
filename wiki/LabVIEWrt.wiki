@@ -1,7 +1,12 @@
-
 = LabVIEW Run Time Engine =
 
-In order for LabVIEW Ground Control Station to run you will need LabVIEW Run Time Engine which is found [http://joule.ni.com/nidu/cds/view/p/id/1383/lang/en here]
+In order for LabVIEW Ground Control Station to run you will need LabVIEW Run Time Engine which is found [http://joule.ni.com/nidu/cds/view/p/id/1383/lang/en here].
+
+Download Standard version
+
+http://ardupilotgcs.googlecode.com/svn/images/LVrt.jpg
+
+and follow installation prompts
 
 
 = Details =
