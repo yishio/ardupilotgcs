@@ -1,6 +1,8 @@
 #summary Components needed for GCS
 
+
 = Getting Started =
+
 
 There are few items needed to install and configure ArduPilot Ground Control Station:
 
