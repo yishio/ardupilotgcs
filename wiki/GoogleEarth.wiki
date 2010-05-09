@@ -11,7 +11,7 @@ Although it is possible to run Google Earth with default settings,  few changes 
 
   # Navigation Controls - Turn off navigation controls by going to _View > Show Navigation_ and select _Never_.  Because GCS uses custom file to display kml data, Google Earth's navigation controls will not work, so leaving them displayed might cause confusion. 
 
-http://code.google.com/p/ardupilotgcs/source/browse/images/GEnavigation.JPG
+http://code.google.com/p/ardupilotgcs/source/browse/images/GEnavigation.jpg
 
 = Details =
 
