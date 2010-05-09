@@ -5,3 +5,4 @@ Ground Control Station (GCS)
 LabVIEW version
 
  * [Overview Overview]
+ * [GettingStarted Getting Started]
