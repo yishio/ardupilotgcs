@@ -13,4 +13,4 @@ If you want to see the code you can find it [http://code.google.com/p/ardupilotg
 
 Short instructional video covering high level points of this wiki:
 
-<wiki:video url="http://static.ning.com/socialnetworkmain/widgets/video/flvplayer/flvplayer.swf?v=201005031716&config=http%3A%2F%2Fdiydrones.com%2Fvideo%2Fvideo%2FshowPlayerConfig%3Fid%3D705844%253AVideo%253A157917%26ck%3D-&video_smoothing=on&autoplay=off&isEmbedCode=1"/>
+<wiki:video url=http://www.vimeo.com/11608873/>
