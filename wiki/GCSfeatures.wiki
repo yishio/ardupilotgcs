@@ -56,14 +56,3 @@ http://ardupilotgcs.googlecode.com/svn/images/GCSfdebugTab.jpg
 
   # Raw Data set - current data as received by the ArduPilot
   # Debug/ Non Telemetry data - cumulative debug or non telemetry data received during flight
-
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
