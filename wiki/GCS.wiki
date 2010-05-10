@@ -18,7 +18,7 @@ http://ardupilotgcs.googlecode.com/svn/images/GCS1.jpg
 
 Select SetUp Tab
 
-http://ardupilotgcs.googlecode.com/svn/images/GCS2.JPG
+http://ardupilotgcs.googlecode.com/svn/images/GCS2.jpg
 
 Choose _COM Port_ and _Baud Rate_ ( red arrows ) where ArduPilot will connect to. Press _Connect_ ( although ArduPilot is not powered-up GCS will "listen and wait" on that port for it).  Note that _Boaud Rate_ has helpful hints dor identifications of EM 406 and uBlox GPS-es. Also next time you start GCS it will "remember" these settings and automatically connect to them. If your ArduPilot settings changed, just set them again on this screen
 
