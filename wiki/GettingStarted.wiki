@@ -13,4 +13,4 @@ If you want to see the code you can find it [http://code.google.com/p/ardupilotg
 
 Short instructional video covering high level points of this wiki:
 
-<wiki:video url="http://vimeo.com/moogaloop.swf?clip_id=1160887" />
+<wiki:video url="http://vimeo.com/moogaloop.swf?clip_id=1160887"/>
