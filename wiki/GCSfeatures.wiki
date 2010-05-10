@@ -1,4 +1,3 @@
-
 = GCS Features =
 
 Main feature differences from earlier version:
@@ -11,15 +10,28 @@ Main feature differences from earlier version:
 
 http://ardupilotgcs.googlecode.com/svn/images/GCSfgeneral.jpg
 
-  # STOP button - use to exst GCS application.
+  # STOP button - use to exit GCS application.
   # Communication Status - indicates if GCS can communicate with ArduPilot. Red means no communication; Green - communication established
   # Message Box 1 - various status messages
   # Tabs - click on them to access various ArduPilot data or GCS settings
   # Battery, Throttle, and IMU health indicators
+  # Climb Rate
   # Message Box 2 - various information ( flight mode, etc.)
   # Navigation Display - waypoint, distance to waypoint, and plane's latitude and longitude information
   # Google Earth map - displays map with plane location and flight path
 
+
+== Main Tab ==
+
+http://ardupilotgcs.googlecode.com/svn/images/GCSfmainTab.jpg
+
+  # Altimeter - indicates current altitude and altitude hold
+  # Artificial Horizon - indicates roll and pitch
+  # Speedometer - indicates air speed and ground speed
+  # Course and Bearing indicator
+
+
+== Setup Tab ==
 
 Add your content here.
 
