@@ -32,9 +32,4 @@ If you had waypoints "pre-loaded" in the ArduPilot they will be displayed on the
 
 http://ardupilotgcs.googlecode.com/svn/images/GCS3.jpg
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+That's it - enjoy the flight ! ( or check out some of the [GCSfeatures GCS Features]
