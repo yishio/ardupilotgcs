@@ -1,1 +1,4 @@
-This is where we'll talk about the broad function of the Ground Station, and link to pages on how to use it.
+== LabVIEW based Ground Control Station ==
+
+
+http://ardupilotgcs.googlecode.com/svn/images/GCS1overview.jpg 
