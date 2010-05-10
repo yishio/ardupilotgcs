@@ -1,6 +1,14 @@
-#summary One-sentence summary of this page.
 
-= Introduction =
+
+= GCS Features =
+
+Main differences from earlier version:
+  * log file - navigation and attitude data
+  * kml log file - kml data showing flight path and waypoints
+  * voice synthesis 
+
+
+  == Main Tab ==
 
 Add your content here.
 
