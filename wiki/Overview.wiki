@@ -2,3 +2,10 @@
 
 
 http://ardupilotgcs.googlecode.com/svn/images/GCS1overview.JPG 
+
+This is GCS for [http://code.google.com/p/ardupilot/wiki/ArduPilot ArduPilot] featuring:
+
+  * Navigation data
+  * Attitude data
+  * Data Logging
+  * Voice Synthesis
