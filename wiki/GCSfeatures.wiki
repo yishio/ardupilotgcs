@@ -14,7 +14,7 @@ http://ardupilotgcs.googlecode.com/svn/images/GCSfgeneral.jpg
   # Communication Status - indicates if GCS can communicate with ArduPilot. Red means no communication; Green - communication established
   # Message Box 1 - various status messages
   # Tabs - click on them to access various ArduPilot data or GCS settings
-  # Battery, Throttle, and IMU health indicators
+  # Battery, Throttle, and IMU health indicators. IMU health indicator is based on 0-100% scale, and it's data will be displayed if IMU is present on the system, otherwise it will display N/A
   # Climb Rate
   # Message Box 2 - various information ( flight mode, etc.)
   # Navigation Display - waypoint, distance to waypoint, and plane's latitude and longitude information
@@ -40,6 +40,22 @@ http://ardupilotgcs.googlecode.com/svn/images/GCSfsetupTab.jpg
   # kml update interval - set how often to update kml ( Google Earth) display. Note that this des not affect how ofthen to log data, since all of the data will be logged as it arrives, but rather this setting dictates how often to update display.
   # Google Earth Controls - Control display of Google Earth view via zoom, pan and tilt. Since kml data will show flight path as it is generated, changing the view angles may provide for some interesting visualization.
 
+
+
+== IMU Tab ==
+
+http://ardupilotgcs.googlecode.com/svn/images/GCSfimuTab.jpg
+
+  # IMU data - If IMU is present, IMU data as provided by ArduPilot, will be shown.
+  # IMU health - unscaled numerical value of IMU health variable
+
+
+== Debug Tab ==
+
+http://ardupilotgcs.googlecode.com/svn/images/GCSfdebugTab.jpg
+
+  # Raw Data set - current data as received by the ArduPilot
+  # Debug/ Non Telemetry data - cumulative debug or non telemetry data received during flight
 
 
 Add your content here.
