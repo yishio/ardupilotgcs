@@ -9,9 +9,9 @@ There are few items needed to install and configure ArduPilot Ground Control Sta
 
 - - -
 
-If you want to see the code you can find it [http://code.google.com/p/ardupilotgcs/source/browse/#svn/trunk here]
+  * If you want to see the code you can find it [http://code.google.com/p/ardupilotgcs/source/browse/#svn/trunk here]
 
 
-Short instructional video covering high level points of this wiki (HD and full screen option available):
+  * Short instructional video covering high level points of this wiki (HD and full screen option available):
 
 http://www.vimeo.com/11608873
