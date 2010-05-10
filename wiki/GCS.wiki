@@ -8,7 +8,7 @@ Start GCS by clicking on the application.
 http://ardupilotgcs.googlecode.com/svn/images/GCSwinexplorer2.JPG
 
 
-Ground Control Station application will load and you should see screen like the following:
+Ground Control Station application and Google Earth will load and you should see screen like the following:
 
 
 http://ardupilotgcs.googlecode.com/svn/images/GCS1.jpg
