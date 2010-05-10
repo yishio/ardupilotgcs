@@ -1,5 +1,3 @@
-#summary One-sentence summary of this page.
-
 = Logging =
 
 
@@ -49,7 +47,7 @@ t[ms]	ASP	THH	RLL	PCH	CRS (IMU)	IMU	ch3_in	LAT	LON	SPD	CRT	ALT	ALH	CRS	BER	WPN	D
 
 == KML Log File ==
 
-During ArduPilot power-up, if any waypoints are stored in memmory, it will be transmitted to GCS and logged ( as well as displayed on the Google Earth Map). During flight, data will be logged as is received. After the flight this file can be viewed in any application that supports kml viewing ( ex. Google Earth) - no more post processing ( now you quicly upload your flight for others to see).
+During ArduPilot power-up, if any waypoints are stored in memmory, it will be transmitted to GCS and logged ( as well as displayed on the Google Earth Map). During flight, data will be logged as is received. After the flight this file can be viewed in any application that supports kml viewing ( ex. Google Earth) - no more post processing ( now you quickly upload your flight for others to see).
 
 Example of (simulated) flight displayed in GE:
 
@@ -60,15 +58,3 @@ http://ardupilotgcs.googlecode.com/svn/images/LoggingGE1.jpg
 You can also change view to see flight path - yellow bars indicate where location data is received. Hint: you can have same view in real time while  GCS is running if you adjust controls in the "Setup" Tab
 
 http://ardupilotgcs.googlecode.com/svn/images/LoggingGE2.jpg 
-
-
-
-
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
