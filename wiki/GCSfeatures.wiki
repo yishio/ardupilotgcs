@@ -46,7 +46,7 @@ http://ardupilotgcs.googlecode.com/svn/images/GCSfsetupTab.jpg
 
 http://ardupilotgcs.googlecode.com/svn/images/GCSfimuTab.jpg
 
-  # IMU data - If IMU is present, IMU data as provided by ArduPilot, will be shown.
+  # IMU data - If IMU is present, IMU data as provided by ArduPilot, will be sisplayed
   # IMU health - unscaled numerical value of IMU health variable
 
 
