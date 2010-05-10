@@ -1,4 +1,4 @@
-= Using Ground Control Station =
+= Setting Up and Using Ground Control Station =
 
 Make sure that you installed and configured hardware per [http://code.google.com/p/ardupilot/wiki/IntroductionPage ArduPilot Instructions]. 
 Don't power-up ArduPilot yet. 
