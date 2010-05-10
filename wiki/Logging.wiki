@@ -1,8 +1,35 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Logging =
 
-Add your content here.
+
+During flight two log files are created
+  * data log file - containing navigation and attitude data
+  * kml log file - containing data about flight path and waypoints
+
+For both files, all data is logged as is received. During the flight kml file will be called APflight.kml, however after GCS exits, it will be renamed "APflight_year_month_day_hour_minute_sec.kml" . For example "APflight_2010_05_07_23_29_47.kml" was created on May 7th, 2010 at 11:29:47 pm.
+Same file naming scheme goes for data log file - "ArduPilot_DataLog_2010_05_07_23_28_54.txt".
+
+== Data Log File ==
+
+{{{
+t[ms]	ASP	THH	RLL	PCH	CRS (IMU)	IMU	ch3_in	LAT	LON	SPD	CRT	ALT	ALH	CRS	BER	WPN	DST	BTV	RSP
+39048	30	50	10	10	5	80	3500													
+39141	30	50	10	10	5	80	3500													
+39397	30	50	10	10	5	80	3500													
+39669	30	50	10	10	5	80	3500													
+39941								37632200	-122491200	20	100	20	30	5	120	1	100	7	100
+40211	30	50	10	10	5	80	3500													
+40483	30	50	10	10	5	80	3500													
+40738	30	50	10	10	5	80	3500													
+41009	30	50	10	10	5	80	3500													
+41281								37632210	-122491200	20	100	20	30	5	120	1	100	7	100
+41552	30	50	10	10	5	80	3500													
+41824	30	50	10	10	5	80	3500
+}}}
+
+
+
 
 
 = Details =
