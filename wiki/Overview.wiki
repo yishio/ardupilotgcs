@@ -1,4 +1,4 @@
 == LabVIEW based Ground Control Station ==
 
 
-http://ardupilotgcs.googlecode.com/svn/images/GCS1overview.jpg 
+http://ardupilotgcs.googlecode.com/svn/images/GCS1overview.JPG 
