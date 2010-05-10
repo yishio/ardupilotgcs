@@ -1,14 +1,25 @@
 
-
 = GCS Features =
 
-Main differences from earlier version:
+Main feature differences from earlier version:
   * log file - navigation and attitude data
   * kml log file - kml data showing flight path and waypoints
   * voice synthesis 
 
 
-  == Main Tab ==
+  == General ==
+
+http://ardupilotgcs.googlecode.com/svn/images/GCSfgeneral.jpg
+
+  # STOP button - use to exst GCS application.
+  # Communication Status - indicates if GCS can communicate with ArduPilot. Red means no communication; Green - communication established
+  # Message Box 1 - various status messages
+  # Tabs - click on them to access various ArduPilot data or GCS settings
+  # Battery, Throttle, and IMU health indicators
+  # Message Box 2 - various information ( flight mode, etc.)
+  # Navigation Display - waypoint, distance to waypoint, and plane's latitude and longitude information
+  # Google Earth map - displays map with plane location and flight path
+
 
 Add your content here.
 
