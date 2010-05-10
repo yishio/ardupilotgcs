@@ -11,5 +11,4 @@ LabVIEW version
   * [GCSapp Ground Control Station Application]
  * [GCS Setting-Up and Using GCS]
  * [GCSfeatures Features]
-Logging
   * [Logging Logging]
