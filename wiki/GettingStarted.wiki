@@ -15,3 +15,5 @@ There are few items needed to install and configure ArduPilot Ground Control Sta
   * Short instructional video covering high level points of this wiki (HD and full screen option available):
 
 http://www.vimeo.com/11608873
+
+http://ardupilotgcs.googlecode.com/svn/images/GCSvideo-vimeo.jpg
