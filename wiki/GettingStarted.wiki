@@ -5,7 +5,7 @@ There are few items needed to install and configure ArduPilot Ground Control Sta
 
   # Get Google Earth [GoogleEarth Instructions]
   # Get LabVIEW Run-Time Engine [LabVIEWrt Instructions]
-  # Get ArduPilot Ground Control Station applications [GCS Instructions]
+  # Get !ArduPilot Ground Control Station applications [GCS Instructions]
 
 - - -
 
