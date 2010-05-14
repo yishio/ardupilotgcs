@@ -108,7 +108,6 @@
 			<Item Name="user32.dll" Type="Document" URL="user32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="visarc" Type="Document" URL="../../../../National Instruments/LabVIEW 2009/resource/visarc"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ArduPilotGCS" Type="EXE">
@@ -116,7 +115,7 @@
 				<Property Name="App_applicationName" Type="Str">ArduPilot GCS.exe</Property>
 				<Property Name="App_companyName" Type="Str">DIYDrones</Property>
 				<Property Name="App_fileDescription" Type="Str">ArduPilotGCS</Property>
-				<Property Name="App_fileVersion.build" Type="Int">4</Property>
+				<Property Name="App_fileVersion.build" Type="Int">5</Property>
 				<Property Name="App_fileVersion.major" Type="Int">2</Property>
 				<Property Name="App_fileVersion.minor" Type="Int">6</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{4C3A0630-E35B-4923-9113-DE232397545D}</Property>
@@ -135,10 +134,15 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/ArduPilotGCS/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/GeneralAndMisc/ArduPilotGCSv2_icon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{8AED26AD-02A5-4F18-81F6-8E6BE9BC05BC}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{CF2F7CD9-096D-48B1-BD30-11B896E5E0C1}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ArduPilot GCS.vi</Property>
+				<Property Name="Source[1].properties[0].type" Type="Str">Allow debugging</Property>
+				<Property Name="Source[1].properties[0].value" Type="Bool">false</Property>
+				<Property Name="Source[1].properties[1].type" Type="Str">Run when opened</Property>
+				<Property Name="Source[1].properties[1].value" Type="Bool">true</Property>
+				<Property Name="Source[1].propertiesCount" Type="Int">2</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[10].Container.applyProperties" Type="Bool">true</Property>
