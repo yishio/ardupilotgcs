@@ -115,7 +115,7 @@
 				<Property Name="App_applicationName" Type="Str">ArduPilot GCS.exe</Property>
 				<Property Name="App_companyName" Type="Str">DIYDrones</Property>
 				<Property Name="App_fileDescription" Type="Str">ArduPilotGCS</Property>
-				<Property Name="App_fileVersion.build" Type="Int">5</Property>
+				<Property Name="App_fileVersion.build" Type="Int">6</Property>
 				<Property Name="App_fileVersion.major" Type="Int">2</Property>
 				<Property Name="App_fileVersion.minor" Type="Int">6</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{4C3A0630-E35B-4923-9113-DE232397545D}</Property>
@@ -134,7 +134,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/ArduPilotGCS/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/GeneralAndMisc/ArduPilotGCSv2_icon.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CF2F7CD9-096D-48B1-BD30-11B896E5E0C1}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{86ADF9FE-C373-4810-B5FC-4311E9954DF9}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ArduPilot GCS.vi</Property>
