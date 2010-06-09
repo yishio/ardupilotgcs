@@ -17,7 +17,7 @@ Same file naming scheme goes for data log file - "ArduPilot_DataLog_2010_05_07_2
 
 Data log file will log navigational and attitude data as is received. Since those two data sets arrive at different intervals, only data from the received set is logged, and other columns are left blank.
 
-All data is defined by and passed from ArduPilot, with exception of "t[ms]". Time in milliseconds or "t[ms]" is time when GCS received given data set. Although not accurate to millisecond when on-board ArduPilot processed it, it is still useful as a diagnostics and informational tool since time differences between data sets can be discerned. Time starts to tick when GCS is launched.
+All data is defined by and passed from !ArduPilot, with exception of "t[ms]". Time in milliseconds or "t[ms]" is time when GCS received given data set. Although not accurate to millisecond when on-board !ArduPilot processed it, it is still useful as a diagnostics and informational tool since time differences between data sets can be discerned. Time starts to tick when GCS is launched.
 
 It is worth mentioning that if IMU is present fields with IMU data will be populated, otherwise they will be logged with 0 
 
@@ -47,7 +47,7 @@ t[ms]	ASP	THH	RLL	PCH	CRS (IMU)	IMU	ch3_in	LAT	LON	SPD	CRT	ALT	ALH	CRS	BER	WPN	D
 
 == KML Log File ==
 
-During ArduPilot power-up, if any waypoints are stored in memmory, it will be transmitted to GCS and logged ( as well as displayed on the Google Earth Map). During flight, data will be logged as is received. After the flight this file can be viewed in any application that supports kml viewing ( ex. Google Earth) - no more post processing ( now you quickly upload your flight for others to see).
+During !ArduPilot power-up, if any waypoints are stored in memory, it will be transmitted to GCS and logged (as well as displayed on the Google Earth Map). During flight, data will be logged as is received. After the flight this file can be viewed in any application that supports kml viewing ( ex. Google Earth) - no more post processing ( now you quickly upload your flight for others to see).
 
 Example of (simulated) flight displayed in GE:
 
