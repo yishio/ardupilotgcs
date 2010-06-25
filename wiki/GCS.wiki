@@ -1,7 +1,7 @@
 = Setting Up and Using Ground Control Station =
 
 Make sure that you installed and configured hardware per [http://code.google.com/p/ardupilot/wiki/IntroductionPage ArduPilot Instructions]. 
-Don't power-up ArduPilot yet. 
+Don't power-up !ArduPilot yet. 
 
 Start GCS by clicking on the application.
 
